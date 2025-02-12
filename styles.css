@@ -1,0 +1,28 @@
+body
+{
+	background-color:#BDFEFF;
+	padding:100px;
+	background-image: url('https://t4.ftcdn.net/jpg/04/39/13/37/360_F_439133763_FrLdhZsd5aGC23r9ATARuKJBr8ifZjIe.jpg');
+	 background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.form
+{
+	width:50%;
+	height:80%;
+	float:left;
+	line-height:100px;
+	padding-left:80px;
+	color:white;
+}
+#btn
+{
+	background-color:pink;
+	color:blue;
+	width:100px;
+	font-size: 20px;
+}
+.b
+{
+	float:right;
+}

@@ -1,0 +1,23 @@
+#a
+{
+	width:30%;
+	height:100%;
+	background-color:#ffff99;
+	padding-left:20px;
+	padding-top:60px;
+	float:left;
+}
+#b
+{
+	width:67%;
+	height:100%;
+	padding-left:10px;
+	text-align:center;
+	float:right;
+	background-color:#ffb799;
+}
+#s
+{
+	height:30px;
+	width:200px;
+}
